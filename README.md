@@ -1,11 +1,10 @@
 # mikewalsh
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="windows-1252">
   <img src="http://canarytokens.com/terms/stuff/lb6t9177n2zc7ybitx3ddmfia/post.jsp" style="display:none;" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="windows-1252">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Security Awareness Training</title>
 <style>
     body {
