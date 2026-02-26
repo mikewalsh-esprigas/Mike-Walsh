@@ -90,9 +90,7 @@
         <li>Report suspicious emails to IT immediately.</li>
     </ul>
 
-    <button onclick="window.location.href='#';">
-        Start Security Awareness Training
-    </button>
+    
 
     <footer>
         Thank you for helping keep our organization secure.
